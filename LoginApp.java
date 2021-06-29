@@ -66,7 +66,7 @@ public class LoginApp implements ActionListener {
 		String user = userField.getText();
 		String pass = passField.getText();
 		
-		String[] username = {"Inzhagi", "POGI", "Vincenzo", "Zinu", "Joma"};
+	String[] username = {"Inzhagi", "POGI", "Vincenzo", "Zinu", "Joma"};
         String[] password = {"IBONN", "AKO", "Mafia", "Emma", "Tech"};
         
         boolean userInput = false;
