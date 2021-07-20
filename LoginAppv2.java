@@ -92,13 +92,13 @@ public class LoginAppv2 implements ActionListener {
 
 	@Override
 	public void actionPerformed(ActionEvent e) {
-		String user = userField.getText();
-		String pass = passField.getText();
+	String user = userField.getText();
+	String pass = passField.getText();
 		
-		String[] username = {"Inzhagi", "POGI", "Vincenzo", "Zinu", "Joma"};
+	String[] username = {"Inzhagi", "POGI", "Vincenzo", "Zinu", "Joma"};
         String[] password = {"IBONN", "AKO", "Mafia", "Emma", "Tech"};
         
-        boolean userInput = false;
+       	boolean userInput = false;
 
         for (String x:username) {
             if (x.equals(user)){
