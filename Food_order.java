@@ -26,7 +26,7 @@ public class Food_order {
     	System.out.println("|       (Original Flavor)                    |");
     	System.out.println("|  3    1pc Chicken with rice        $5      |");
     	System.out.println("|       (American Flavor)                    |");
-		System.out.println("|                                            |");
+	System.out.println("|                                            |");
     	System.out.println("|                                            |");
     	System.out.println("|                 BEVERAGES:                 |");
     	System.out.println("|  1    Coca Cola                    $1      |");
