@@ -90,7 +90,7 @@ public class Food_order {
 		} else if (validmain.equalsIgnoreCase("no")) {
 			boolmain = true; //if the the usre input no, the loop will be repeated
 		} else {
-			System.out.println("Invalid Input Please try again!");//if the user input randomly
+			System.out.println("Invalid Input Please try again!\n");//if the user input randomly
 			continue; //the loop will restart
 		}
 	}
